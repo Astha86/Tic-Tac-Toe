@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Tic Tac Toe Game
 
 This is a classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript. It provides an interactive user interface for two players to compete against each other on a web browser.
 
